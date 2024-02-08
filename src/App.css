@@ -32,4 +32,6 @@
 
 .sideMenu {}
 
-.pageContent {}
+.pageContent {
+  padding-left: 0.75rem;
+}

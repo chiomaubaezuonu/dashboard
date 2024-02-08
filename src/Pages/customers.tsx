@@ -1,12 +1,12 @@
 import { Typography } from 'antd'
 import React from 'react'
 
-const customers = () => {
+const Customers = () => {
   return (
     <div>
-        <Typography.Text>Customers</Typography.Text>
+        <Typography.Title level={4}>Customers</Typography.Title>
     </div>
   )
 }
 
-export default customers
+export default Customers
